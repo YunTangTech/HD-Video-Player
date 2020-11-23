@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Support Webpage For HD Video Player
 
-You can use the [editor on GitHub](https://github.com/YunTangTech/HD-Video-Player/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+HD Video Player, a media player that can play local audio and video files in various formats. Support various media format decoding.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Support almost all video formats: MP4,AVI,MKV,RMVB,FLV,WMV,3GP,WAV,MOV,SWF,MPEG,ASF,MTS,RM,VOB,M4V,M2TS ...
+- Audio formats: MP3,WMA,WAV,DTS,AAC,AMR,FLAC,M4A,AIFF,OGG ...
+- Import media files:
+	1）In other apps, use open in... to import files.
+	2）Import files from Files/iCloud Drive.
+	3）Import files from PC.
+	4）Import video files from the Photo Library.
+- Support background playback of local audio and video.
+- Passcode lock protects your privacy
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YunTangTech/HD-Video-Player/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us: yun_tang_tech@163.com
